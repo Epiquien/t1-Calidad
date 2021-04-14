@@ -1,0 +1,13 @@
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\bin\Debug\netcoreapp3.1\t1calidad.exe
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\bin\Debug\netcoreapp3.1\t1calidad.deps.json
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\bin\Debug\netcoreapp3.1\t1calidad.runtimeconfig.json
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\bin\Debug\netcoreapp3.1\t1calidad.runtimeconfig.dev.json
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\bin\Debug\netcoreapp3.1\t1calidad.dll
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\bin\Debug\netcoreapp3.1\t1calidad.pdb
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.csprojAssemblyReference.cache
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.AssemblyInfoInputs.cache
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.AssemblyInfo.cs
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.csproj.CoreCompileInputs.cache
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.dll
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.pdb
+C:\Users\PCTUNNING\source\repos\t1calidad\t1calidad\obj\Debug\netcoreapp3.1\t1calidad.genruntimeconfig.cache
